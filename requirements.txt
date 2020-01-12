@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+PyQt5
+sympy
+control
+slycot
